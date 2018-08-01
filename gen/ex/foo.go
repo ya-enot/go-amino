@@ -3,7 +3,7 @@ package ex
 import (
 	"fmt"
 
-	"github.com/tendermint/tmlibs/common"
+	"github.com/ya-enot/tmlibs/common"
 )
 
 // +gen wrapper:"Foo,Impl[Bling,*Fuzz],blng,fzz"

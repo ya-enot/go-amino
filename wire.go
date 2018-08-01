@@ -7,7 +7,7 @@ import (
 	"io"
 	"reflect"
 
-	cmn "github.com/tendermint/tmlibs/common"
+	cmn "github.com/ya-enot/tmlibs/common"
 )
 
 var (

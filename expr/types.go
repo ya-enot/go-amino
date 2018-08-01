@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strconv"
 
-	cmn "github.com/tendermint/tmlibs/common"
-	"github.com/tendermint/go-wire"
+	cmn "github.com/ya-enot/tmlibs/common"
+	"github.com/ya-enot/go-wire"
 )
 
 type Byteful interface {

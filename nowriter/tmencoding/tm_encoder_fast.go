@@ -1,7 +1,7 @@
 package tmencoding
 
 import (
-	"github.com/tendermint/go-wire/nowriter/tmlegacy"
+	"github.com/ya-enot/go-wire/nowriter/tmlegacy"
 	"io"
 	"time"
 )

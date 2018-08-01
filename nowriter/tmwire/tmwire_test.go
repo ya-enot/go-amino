@@ -6,11 +6,11 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	cmn "github.com/tendermint/tmlibs/common"
+	cmn "github.com/ya-enot/tmlibs/common"
 
-	"github.com/tendermint/go-wire/nowriter/tmdecoding"
-	"github.com/tendermint/go-wire/nowriter/tmencoding"
-	"github.com/tendermint/go-wire/nowriter/tmlegacy"
+	"github.com/ya-enot/go-wire/nowriter/tmdecoding"
+	"github.com/ya-enot/go-wire/nowriter/tmencoding"
+	"github.com/ya-enot/go-wire/nowriter/tmlegacy"
 )
 
 var legacy = tmlegacy.TMEncoderLegacy{}

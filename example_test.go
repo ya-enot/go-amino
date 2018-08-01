@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/tendermint/go-wire"
+	"github.com/ya-enot/go-wire"
 )
 
 func Example_RegisterInterface() {

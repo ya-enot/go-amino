@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	wire "github.com/tendermint/go-wire"
+	wire "github.com/ya-enot/go-wire"
 )
 
 func TestSimpleBinary(t *testing.T) {

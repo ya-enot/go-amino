@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tendermint/go-wire/expr"
-	cmn "github.com/tendermint/tmlibs/common"
+	"github.com/ya-enot/go-wire/expr"
+	cmn "github.com/ya-enot/tmlibs/common"
 )
 
 func main() {

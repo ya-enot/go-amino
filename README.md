@@ -38,7 +38,7 @@ import (
   "bytes"
   "fmt"
   "math"
-  "github.com/tendermint/go-wire"
+  "github.com/ya-enot/go-wire"
 )
 
 type Foo struct {
@@ -80,7 +80,7 @@ package main
 import (
   "bytes"
   "fmt"
-  "github.com/tendermint/go-wire"
+  "github.com/ya-enot/go-wire"
 )
 
 type Animal interface{}
@@ -133,7 +133,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/tendermint/go-wire"
+	"github.com/ya-enot/go-wire"
 )
 
 type Animal interface{}

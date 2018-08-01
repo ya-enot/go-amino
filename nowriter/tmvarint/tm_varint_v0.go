@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"bytes"
 	"encoding/binary"
-	"github.com/tendermint/go-wire/nowriter/tmlegacy"
+	"github.com/ya-enot/go-wire/nowriter/tmlegacy"
 )
 
 type TMVarintV0 struct {

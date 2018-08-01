@@ -26,7 +26,7 @@ func (sw *WrapperWriter) Name() string {
 }
 
 func (sw *WrapperWriter) Imports(t typewriter.Type) []typewriter.ImportSpec {
-	return []typewriter.ImportSpec{{Path: "github.com/tendermint/go-wire/data"}}
+	return []typewriter.ImportSpec{{Path: "github.com/ya-enot/go-wire/data"}}
 }
 
 func (sw *WrapperWriter) Write(w io.Writer, t typewriter.Type) error {

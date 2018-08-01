@@ -14,7 +14,7 @@ docs:
 all: install test
 
 install: 
-	go install github.com/tendermint/go-wire/cmd/...
+	go install github.com/ya-enot/go-wire/cmd/...
 
 test:
 	go test `glide novendor`

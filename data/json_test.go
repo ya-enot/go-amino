@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	data "github.com/tendermint/go-wire/data"
+	data "github.com/ya-enot/go-wire/data"
 )
 
 func TestSimpleJSON(t *testing.T) {

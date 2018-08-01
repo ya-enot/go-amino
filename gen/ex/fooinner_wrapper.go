@@ -5,7 +5,7 @@
 package ex
 
 import (
-	"github.com/tendermint/go-wire/data"
+	"github.com/ya-enot/go-wire/data"
 )
 
 // Auto-generated adapters for happily unmarshaling interfaces

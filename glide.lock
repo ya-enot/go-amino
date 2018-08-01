@@ -1,5 +1,5 @@
-hash: ef298394075ed9e51238956557635cfe6d592e74d3801b10faa6a6b0059216bc
-updated: 2017-05-15T09:15:54.260968491-04:00
+hash: 753477fb92e5837fed3498ae3e9ef163767591f6af2db438a8d7cb62957e4bcc
+updated: 2018-08-01T21:30:12.9742239+03:00
 imports:
 - name: github.com/clipperhouse/typewriter
   version: c1a48da378ebb7db1db9f35981b5cc24bf2e5b85
@@ -15,8 +15,8 @@ imports:
   version: ae0f3d6450da9eac7074b439c8e1c3cabf0d5ce6
   subpackages:
   - term
-- name: github.com/tendermint/tmlibs
-  version: 2f8551d3b614dd0c0c6c114c42ab25901cc41a52
+- name: github.com/ya-enot/tmlibs
+  version: d9d7935b38c860fa18aebb703180185b5ea3d230
   subpackages:
   - common
 - name: golang.org/x/crypto

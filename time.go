@@ -4,7 +4,7 @@ import (
 	"io"
 	"time"
 
-	cmn "github.com/tendermint/tmlibs/common"
+	cmn "github.com/ya-enot/tmlibs/common"
 )
 
 // WriteTime writes the number of nanoseconds, with millisecond resolution,

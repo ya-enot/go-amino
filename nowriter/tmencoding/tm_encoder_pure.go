@@ -4,9 +4,9 @@ import (
 	"bufio"
 	"bytes"
 	"encoding/binary"
-	"github.com/tendermint/go-wire/nowriter/tmlegacy"
-	"github.com/tendermint/go-wire/nowriter/tmvarint"
-	cmn "github.com/tendermint/tmlibs/common"
+	"github.com/ya-enot/go-wire/nowriter/tmlegacy"
+	"github.com/ya-enot/go-wire/nowriter/tmvarint"
+	cmn "github.com/ya-enot/tmlibs/common"
 	"math"
 	"time"
 )

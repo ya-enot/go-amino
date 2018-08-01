@@ -3,7 +3,7 @@ package data_test
 import (
 	"strings"
 
-	data "github.com/tendermint/go-wire/data"
+	data "github.com/ya-enot/go-wire/data"
 )
 
 /** These are some sample types to test parsing **/
